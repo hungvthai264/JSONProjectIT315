@@ -35,7 +35,7 @@
     {
         "RestaurantName" : "La Bella Vita",
         "RestaurantType" : "Italian",
-        "RestaurantRate : "4.2",
+        "RestaurantRate" : "4.2",
         "RestaurantDescription" : "Traditional Italian dishes made with fresh ingredients and served in a cozy atmosphere.",
         "RestaurantImageName" : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/labellavita.jpg",
         "RestaurantWebsiteAddress" : "https://labellavitabistro.com"
