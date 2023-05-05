@@ -1,5 +1,5 @@
 {
- - RestaurantRecs: [
+ - "RestaurantRecs": [
   - {
         "RestaurantName" : "Joe's Cafe",
         "RestaurantType" : "American",
@@ -10,35 +10,35 @@
      },
    - {
         "RestaurantName" : "Sushi King",
-        RestaurantType : "Japanese",
-        RestaurantRate : "4.3",
-        RestaurantDescription : "Authentic Japanese sushi with fresh ingredients.",
-        RestaurantImageName : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/sushiking.jpg",
-        RestaurantWebsiteAddress : "https://sushikingusa.com"
+        "RestaurantType" : "Japanese",
+        "RestaurantRate" : "4.3",
+        "RestaurantDescription" : "Authentic Japanese sushi with fresh ingredients.",
+        "RestaurantImageName" : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/sushiking.jpg",
+        "RestaurantWebsiteAddress" : "https://sushikingusa.com"
       },
     - {  
-        RestaurantName : "La Bonne Vie",
-        RestaurantType : "French",
-        RestaurantRate : "4.7",
-        RestaurantDescription : "French cuisine with a modern twist.",
-        RestaurantImageName : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/labonnevie.jpeg",
-        RestaurantWebsiteAddress : "https://labonnevie.com"
+        "RestaurantName" : "La Bonne Vie",
+        "RestaurantType" : "French",
+        "RestaurantRate" : "4.7",
+        "RestaurantDescription" : "French cuisine with a modern twist.",
+        "RestaurantImageName" : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/labonnevie.jpeg",
+        "RestaurantWebsiteAddress" : "https://labonnevie.com"
        },
     - {
-        RestaurantName : "The Spicy Spoon",
-        RestaurantType : "Indian",
-        RestaurantRate : "4.5",
-        RestaurantDescription : "Delicious and authentic Indian cuisine with a variety of vegetarian and non-vegetarian options.",
-        RestaurantImageName : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/thespicyspoon.jpg",
-        RestaurantWebsiteAddress : "https://www.yelp.com/biz/the-spicy-spoon-portland"
+        "RestaurantName" : "The Spicy Spoon",
+        "RestaurantType" : "Indian",
+        "RestaurantRate" : "4.5",
+        "RestaurantDescription" : "Delicious and authentic Indian cuisine with a variety of vegetarian and non-vegetarian options.",
+        "RestaurantImageName" : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/thespicyspoon.jpg",
+        "RestaurantWebsiteAddress" : "https://www.yelp.com/biz/the-spicy-spoon-portland"
        },
     - {
-        RestaurantName : "La Bella Vita",
-        RestaurantType : "Italian",
-        RestaurantRate : "4.2",
-        RestaurantDescription : "Traditional Italian dishes made with fresh ingredients and served in a cozy atmosphere.",
-        RestaurantImageName : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/labellavita.jpg",
-        RestaurantWebsiteAddress : "https://labellavitabistro.com"
+        "RestaurantName" : "La Bella Vita",
+        "RestaurantType" : "Italian",
+        "RestaurantRate : "4.2",
+        "RestaurantDescription" : "Traditional Italian dishes made with fresh ingredients and served in a cozy atmosphere.",
+        "RestaurantImageName" : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/labellavita.jpg",
+        "RestaurantWebsiteAddress" : "https://labellavitabistro.com"
       ],
-      Status: "OK"
+      "Status": "OK"
  }
