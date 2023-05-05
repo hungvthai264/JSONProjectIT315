@@ -1,6 +1,6 @@
 {
- - "RestaurantRecs": [
-  - {
+ "RestaurantRecs": [
+   {
         "RestaurantName" : "Joe's Cafe",
         "RestaurantType" : "American",
        "RestaurantRate" : "4.5",
@@ -8,7 +8,7 @@
         "RestaurantImageName" : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/joescafe.jpg",
         "RestaurantWebsiteAddress" : "https://www.joescafesterling.com"
      },
-   - {
+   {
         "RestaurantName" : "Sushi King",
         "RestaurantType" : "Japanese",
         "RestaurantRate" : "4.3",
@@ -16,7 +16,7 @@
         "RestaurantImageName" : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/sushiking.jpg",
         "RestaurantWebsiteAddress" : "https://sushikingusa.com"
       },
-    - {  
+    {  
         "RestaurantName" : "La Bonne Vie",
         "RestaurantType" : "French",
         "RestaurantRate" : "4.7",
@@ -24,7 +24,7 @@
         "RestaurantImageName" : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/labonnevie.jpeg",
         "RestaurantWebsiteAddress" : "https://labonnevie.com"
        },
-    - {
+    {
         "RestaurantName" : "The Spicy Spoon",
         "RestaurantType" : "Indian",
         "RestaurantRate" : "4.5",
@@ -32,7 +32,7 @@
         "RestaurantImageName" : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/thespicyspoon.jpg",
         "RestaurantWebsiteAddress" : "https://www.yelp.com/biz/the-spicy-spoon-portland"
        },
-    - {
+    {
         "RestaurantName" : "La Bella Vita",
         "RestaurantType" : "Italian",
         "RestaurantRate : "4.2",
