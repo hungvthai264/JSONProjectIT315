@@ -1,15 +1,15 @@
 {
  - RestaurantRecs: [
   - {
-        RestaurantName : "Joe's Cafe",
-        RestaurantType : "American",
-        RestaurantRate : "4.5",
-        RestaurantDescription : "A cozy cafe with great coffee and pastries. ",
-        RestaurantImageName : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/joescafe.jpg",
-        RestaurantWebsiteAddress : "https://www.joescafesterling.com"
+        "RestaurantName" : "Joe's Cafe",
+        "RestaurantType" : "American",
+       "RestaurantRate" : "4.5",
+        "RestaurantDescription" : "A cozy cafe with great coffee and pastries. ",
+        "RestaurantImageName" : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/joescafe.jpg",
+        "RestaurantWebsiteAddress" : "https://www.joescafesterling.com"
      },
    - {
-        RestaurantName : "Sushi King",
+        "RestaurantName" : "Sushi King",
         RestaurantType : "Japanese",
         RestaurantRate : "4.3",
         RestaurantDescription : "Authentic Japanese sushi with fresh ingredients.",
