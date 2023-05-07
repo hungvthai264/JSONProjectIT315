@@ -7,8 +7,8 @@
         "RestaurantDescription" : "A cozy cafe with great coffee and pastries. ",
         "RestaurantImageName" : "https://raw.githubusercontent.com/hungvthai264/JSONProjectIT315/main/joescafe.jpg",
         "RestaurantWebsiteAddress" : "https://www.joescafesterling.com",
-        "RestaurantLatitude": "39.00525680865138",
-        "RestaurantLongitude": "-77.42694230090576"
+        "RestaurantLatitude": 39.00525680865138,
+        "RestaurantLongitude": -77.42694230090576
      },
    {
         "RestaurantName" : "Sushi King",
